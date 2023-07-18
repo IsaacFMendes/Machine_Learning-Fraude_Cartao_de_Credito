@@ -34,7 +34,7 @@
 * Obter um modelo de predição com uma boa detecção de fraudes (verdadeiro positivo -VP), sem alterar muito as constatações de transações genuínas (verdadeiro negativo - VN). Isso quando forem comparados os valores preditivos com os originais.
   
  ## Descição do Projeto: 
-* Inicialmente, foi realizada uma breve introdução a nível de contexto sobre o tema, em seguida foi feito a coleta de dados da plataforma Kaggle para então começar a secção de análise exploratória. Após essa etapa, efetuou-se a separação dos dado entre teste, treino e validação e ,posteriormente, foi iniciado o processo de pré-processamento dos dados de maneira individualizada. Finalizando, foi contruído modelos de regressão logística com diferentes configurações com o propósito de demonstrar a aplicação de algumas teorias na prática e  de avaliar a melhor solução para o problema proposto. No mais, realizou-se as conclusões com os devidos resultados e prontamente as referências.
+* Inicialmente, foi realizada uma breve introdução a nível de contexto sobre o tema, em seguida foi feito a coleta de dados da plataforma Kaggle para então começar a secção de análise exploratória. Após essa etapa, efetuou-se a separação dos dados entre teste, treino e validação e ,posteriormente, foi iniciado o processo de pré-processamento deles de maneira individualizada. Finalizando, foi contruído modelos de regressão logística com diferentes configurações com o propósito de demonstrar a aplicação de algumas teorias na prática e  de avaliar a melhor solução para o problema proposto. No mais, realizou-se as conclusões com os devidos resultados e prontamente as referências.
   
  
 
